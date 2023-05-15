@@ -1,0 +1,26 @@
+
+BIKES SALES DASHBOARD
+=======================
+Objective :
+----------
+Analyse Bike sales data and find insights based on your analysis. Use Pivot table and make dashboard to present your insights.
+
+Steps involved in my Analysis :
+------------------------------
+1.	Add filteres to 
+
+Data Cleaning:
+--------------
+2.	Look for inaccurate and biased data
+3.	Remove duplicates to maintain data integrity
+4.	Changed Marital status from “M”,”S” to “Married”,”Single” . Also Gender from “M”,”F” to “Male”,”Female”. It will make sense when creating reports
+5.	Added Age brackets based on age limits which helped me to create reports with that Age brackets.
+
+Pivot Table :
+-------------
+Created Pivot table for “Bike sales by Gender and Income”, “Customer Commute”  and “Customer Age brackets”
+
+Dashboard :
+-----------
+Bike sales data dashboard illustrates Bike sales report by Gender and Income. Customer Commute chart shows How commute distance relate with purchasing bikes. Customer Age bracket chart shows which age bracket people tend to buy more bikes.
+
